@@ -1,0 +1,8 @@
+.pasted-image-container {
+  display: flex;
+  position: relative;
+}
+.pasted-image-pasted-image {
+  width: 352px;
+  height: 343px;
+}

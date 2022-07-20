@@ -1,0 +1,27 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-button {
+  color: var(--dl-color-scheme-white);
+  position: relative;
+  transition: 0.3s;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: #000000;
+}
+.component-button:hover {
+  transform: scale(1.02);
+}
+.component-root-class-name {
+  left: 274px;
+  bottom: 23px;
+  position: absolute;
+}
+.component-root-class-name1 {
+  left: 421px;
+  bottom: 23px;
+  position: absolute;
+}

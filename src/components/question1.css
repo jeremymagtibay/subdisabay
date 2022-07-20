@@ -1,0 +1,23 @@
+.question1-question {
+  position: relative;
+}
+.question1-trigger {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.question1-text {
+  font-size: 20px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.question1-icon {
+  width: 12px;
+  height: 12px;
+}
+.question1-text1 {
+  margin-top: 8px;
+}

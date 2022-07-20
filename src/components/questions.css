@@ -1,0 +1,71 @@
+.questions-questions {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.questions-text {
+  color: var(--dl-color-scheme-green80);
+  margin-bottom: var(--dl-space-space-unit);
+}
+.questions-text1 {
+  font-size: 42px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.25;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.questions-trigger {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.questions-text2 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.questions-icon {
+  width: 12px;
+  height: 12px;
+}
+.questions-text3 {
+  margin-top: 8px;
+}
+.questions-trigger1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.questions-text4 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.questions-icon2 {
+  width: 12px;
+  height: 12px;
+}
+.questions-text5 {
+  margin-top: 8px;
+}
+@media(max-width: 991px) {
+  .questions-questions {
+    width: 60%;
+  }
+}
+@media(max-width: 767px) {
+  .questions-questions {
+    width: 100%;
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+}

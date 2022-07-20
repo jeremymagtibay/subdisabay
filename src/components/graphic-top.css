@@ -1,0 +1,28 @@
+.graphic-top-container {
+  display: flex;
+  position: relative;
+}
+.graphic-top-graphic-top {
+  width: 342px;
+  height: 354px;
+  position: relative;
+  max-width: 359px;
+  max-height: 359px;
+  object-fit: contain;
+  object-position: center;
+}
+.graphic-top-root-class-name {
+  right: -109px;
+  bottom: -609px;
+  position: absolute;
+}
+.graphic-top-root-class-name1 {
+  top: -120px;
+  right: -195px;
+  position: absolute;
+}
+.graphic-top-root-class-name2 {
+  left: -223px;
+  bottom: -203px;
+  position: absolute;
+}

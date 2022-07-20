@@ -1,0 +1,507 @@
+.howtodrive-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.howtodrive-max-width {
+  position: relative;
+}
+.howtodrive-logo {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.howtodrive-image {
+  width: 22px;
+  object-fit: cover;
+  margin-right: 14px;
+}
+.howtodrive-navlink {
+  text-decoration: none;
+}
+.howtodrive-text {
+  color: var(--dl-color-scheme-orange100);
+}
+.howtodrive-links {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.howtodrive-navlink1 {
+  color: var(--dl-color-scheme-green80);
+  margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.howtodrive-navlink2 {
+  text-decoration: none;
+}
+.howtodrive-burger-menu {
+  fill: #105749;
+  width: 24px;
+  height: 24px;
+}
+.howtodrive-text01 {
+  left: 90px;
+  bottom: -8px;
+  position: absolute;
+  font-size: 10px;
+  line-height: 1.5;
+}
+.howtodrive-hero {
+  height: 712px;
+  position: relative;
+  align-items: flex-start;
+  padding-bottom: var(--dl-space-space-eightunits);
+  justify-content: center;
+}
+.howtodrive-title {
+  top: 193px;
+  left: 283px;
+  color: var(--dl-color-scheme-white);
+  position: absolute;
+  font-size: 52px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.howtodrive-number {
+  top: 194px;
+  flex: 0 0 auto;
+  left: 196px;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius16);
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-scheme-orange100);
+}
+.howtodrive-text03 {
+  font-size: 28px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.5;
+}
+.howtodrive-title1 {
+  top: -54px;
+  color: var(--dl-color-scheme-white);
+  right: 70px;
+  position: absolute;
+  font-size: 52px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.howtodrive-pasted-image {
+  top: 25px;
+  right: 102px;
+  width: 364px;
+  height: 665px;
+  position: absolute;
+  border-radius: 49px;
+}
+.howtodrive-container1 {
+  top: 148px;
+  flex: 0 0 auto;
+  left: 198px;
+  width: auto;
+  height: 82px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  justify-content: center;
+}
+.howtodrive-text05 {
+  color: var(--dl-color-scheme-white);
+}
+.howtodrive-section {
+  height: 708px;
+  position: relative;
+}
+.howtodrive-max-width1 {
+  position: relative;
+  align-items: stretch;
+}
+.howtodrive-image1 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+.howtodrive-number1 {
+  top: 160px;
+  flex: 0 0 auto;
+  left: 588px;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius16);
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-scheme-orange100);
+}
+.howtodrive-text06 {
+  top: 11px;
+  left: 27px;
+  position: absolute;
+  font-size: 28px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.5;
+}
+.howtodrive-text07 {
+  top: 166px;
+  left: 686px;
+  position: absolute;
+  font-size: 42px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.25;
+}
+.howtodrive-pasted-image1 {
+  top: 17px;
+  left: 87px;
+  width: 364px;
+  height: 665px;
+  position: absolute;
+  border-radius: 49px;
+}
+.howtodrive-hero1 {
+  height: 712px;
+  position: relative;
+  align-items: center;
+  padding-bottom: var(--dl-space-space-eightunits);
+  justify-content: flex-start;
+}
+.howtodrive-title2 {
+  top: 195px;
+  left: 240px;
+  color: var(--dl-color-scheme-white);
+  position: absolute;
+  font-size: 52px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.howtodrive-title3 {
+  top: -54px;
+  color: var(--dl-color-scheme-white);
+  right: 70px;
+  position: absolute;
+  font-size: 52px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.howtodrive-number2 {
+  top: 194px;
+  flex: 0 0 auto;
+  left: 155px;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius16);
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-scheme-orange100);
+}
+.howtodrive-text09 {
+  top: 11px;
+  right: 25px;
+  position: absolute;
+  font-size: 28px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.5;
+}
+.howtodrive-pasted-image2 {
+  top: 7px;
+  right: 112px;
+  width: 364px;
+  height: 655px;
+  position: absolute;
+  border-radius: 49px;
+}
+.howtodrive-section1 {
+  height: 708px;
+  position: relative;
+}
+.howtodrive-max-width2 {
+  position: relative;
+  align-items: stretch;
+}
+.howtodrive-image2 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+.howtodrive-number3 {
+  top: 152px;
+  flex: 0 0 auto;
+  left: 469px;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius16);
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-scheme-orange100);
+}
+.howtodrive-text10 {
+  top: 11px;
+  left: 27px;
+  position: absolute;
+  font-size: 28px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.5;
+}
+.howtodrive-text11 {
+  top: 159px;
+  left: 570px;
+  position: absolute;
+  font-size: 42px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.25;
+}
+.howtodrive-pasted-image3 {
+  left: 67px;
+  width: 364px;
+  bottom: 17px;
+  height: 665px;
+  position: absolute;
+  border-radius: 49px;
+}
+.howtodrive-hero2 {
+  height: 712px;
+  position: relative;
+  align-items: center;
+  padding-bottom: var(--dl-space-space-eightunits);
+  justify-content: flex-start;
+}
+.howtodrive-title4 {
+  top: 195px;
+  left: 240px;
+  color: var(--dl-color-scheme-white);
+  position: absolute;
+  font-size: 52px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.howtodrive-title5 {
+  top: -54px;
+  color: var(--dl-color-scheme-white);
+  right: 70px;
+  position: absolute;
+  font-size: 52px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.howtodrive-number4 {
+  top: 194px;
+  flex: 0 0 auto;
+  left: 155px;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius16);
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-scheme-orange100);
+}
+.howtodrive-text13 {
+  top: 11px;
+  right: 25px;
+  position: absolute;
+  font-size: 28px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.5;
+}
+.howtodrive-pasted-image4 {
+  top: 16px;
+  right: 79px;
+  width: 364px;
+  height: 665px;
+  position: absolute;
+  border-radius: 49px;
+}
+.howtodrive-footer {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.howtodrive-links-container {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.howtodrive-container2 {
+  width: 605px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.howtodrive-text14 {
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.howtodrive-text15 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.howtodrive-text16 {
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.howtodrive-text17 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.howtodrive-text18 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.howtodrive-text19 {
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.howtodrive-text20 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.howtodrive-navlink3 {
+  text-decoration: none;
+}
+@media(max-width: 991px) {
+  .howtodrive-title {
+    top: 205px;
+    left: 176px;
+  }
+  .howtodrive-number {
+    top: 206px;
+    left: 94px;
+  }
+  .howtodrive-pasted-image {
+    top: 29px;
+    right: 27px;
+  }
+  .howtodrive-max-width1 {
+    flex-direction: column;
+  }
+  .howtodrive-image1 {
+    padding-bottom: var(--dl-space-space-threeunits);
+  }
+  .howtodrive-title2 {
+    top: 180px;
+    left: 142px;
+  }
+  .howtodrive-number2 {
+    top: 181px;
+    left: 63px;
+  }
+  .howtodrive-pasted-image2 {
+    top: 7px;
+    right: 72px;
+  }
+  .howtodrive-max-width2 {
+    flex-direction: column;
+  }
+  .howtodrive-image2 {
+    padding-bottom: var(--dl-space-space-threeunits);
+  }
+  .howtodrive-title4 {
+    top: 194px;
+    left: 135px;
+  }
+  .howtodrive-number4 {
+    top: 195px;
+    left: 62px;
+  }
+  .howtodrive-pasted-image4 {
+    top: 18px;
+    right: 23px;
+  }
+  .howtodrive-footer {
+    flex-direction: column;
+  }
+  .howtodrive-links-container {
+    width: auto;
+    margin-top: var(--dl-space-space-twounits);
+    flex-direction: row;
+  }
+  .howtodrive-container2 {
+    flex-wrap: wrap;
+    margin-right: 0px;
+  }
+}
+@media(max-width: 767px) {
+  .howtodrive-links {
+    display: none;
+  }
+  .howtodrive-icon {
+    fill: var(--dl-color-scheme-green100);
+  }
+  .howtodrive-footer {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .howtodrive-links-container {
+    width: auto;
+    margin-top: var(--dl-space-space-twounits);
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .howtodrive-container2 {
+    width: 100%;
+    justify-content: space-between;
+  }
+}
+@media(max-width: 479px) {
+  .howtodrive-footer {
+    padding: var(--dl-space-space-unit);
+  }
+  .howtodrive-links-container {
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .howtodrive-container2 {
+    align-items: center;
+    margin-right: 0px;
+    justify-content: space-between;
+  }
+}
